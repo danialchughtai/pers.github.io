@@ -101,7 +101,7 @@ body{
 }
 .home{
     padding: 15em 0;
-    background: url(/style/images/bg111.jpg);
+    background: url(bg111.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -583,7 +583,7 @@ body{
     color: #ffbd39;
 }
 .bg_2{
-    background: url(/style/images/bg_1.jpg.webp);
+    background: url(bg_1.jpg.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
